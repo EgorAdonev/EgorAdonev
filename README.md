@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EgorAdonev
-- 👀 I’m mostly interested in AI, Neural Networks and Machine Learning. I want to share with you my projects,
+- 👀 I’m mostly interested in AI, Neural Networks, Machine Learning(Python) and Java Development. I want to share with you my projects,
 who knows maybe somebody with front-end or application design skills would love to make an app that decodes ADS-B using my Neural Networks and ML
 (I would love also to meet smbdy with NN and ML deep experience to improve my neural networks skills).
 So that's my second making NNs using Python and Tensorflow. These are for decoding ADS-B signals (made in Google Colab cloud environment using .ipynb and Python).
